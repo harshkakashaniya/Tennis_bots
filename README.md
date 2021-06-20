@@ -61,7 +61,3 @@ And select the appropiate file to train or test the model.
 ### Our Average score vs Episodes.
 
 ![](https://github.com/harshkakashaniya/Tennis_bots/blob/main/images/graph.png)
-
-### Our Results of training.
-
-![](https://github.com/harshkakashaniya/Tennis_bots/blob/main/images/scores.png)
